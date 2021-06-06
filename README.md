@@ -5,7 +5,7 @@
 
 Estudio Desarrollo de Aplicaciones Multiplataforma y me estoy especializando en JavaScript como lenguaje principal. Tengo experiencia con varias tecnologias listadas en el apartado **herramientas** de este articulo.
 
-Creo contenido tecnologico, normalmente relacionado con mis intenereses. Puedes seguirme en las diferentes redes sociale spara estar informado de todoas mis novedades y lanzamientos.
+Creo contenido tecnologico, normalmente relacionado con mis intenereses. Puedes seguirme en las diferentes redes sociales para estar informado de todoas mis novedades y lanzamientos.
 
 Estoy trabajando en el desarrollo de mi propia empresa [Codefastly](https://codefastly.net) y en mi futuro canal de [YouTube](https://www.youtube.com/channel/UCIWqeMzcavikCG_0Hup0kmg) en el que compartiré todos mis conocimientos.
 
