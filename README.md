@@ -10,6 +10,12 @@ Full-Stack Developer focused on **TypeScript**, **C#** and **Go**, with a strong
 
 ---
 
+### 🤖 AI & LLMs
+
+1+ year building with AI in production. I work with **LLM APIs** (OpenAI GPT-4, Anthropic Claude), **RAG pipelines** (embeddings + vector databases), and **prompt engineering** for real-world applications.
+
+---
+
 ### 📌 Featured Projects
 
 - **[typescript-ddd-api-skeleton](https://github.com/JoseUgal/typescript-ddd-api-skeleton)** — TypeScript API template with DDD, Hexagonal Architecture & CQRS
